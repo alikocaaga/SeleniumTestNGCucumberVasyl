@@ -4,7 +4,8 @@ Today is 12/13/2019
 
 		Operations with excel files:
 
-		To connect java code with excel files we use Apache POI library. It's an open source library, means that it's free.
+		To connect java code with excel files we use Apache POI library.
+		It's an open source library, means that it's free.
 		Since we cannot open excel file without special decoding, we have to use library that can do it for us.
 
 #To open excel file, we need to do few things:

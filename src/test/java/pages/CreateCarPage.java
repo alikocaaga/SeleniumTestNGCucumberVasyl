@@ -34,6 +34,9 @@ public class CreateCarPage extends BasePage {
     public WebElement colorElement;
 
 
+
+
+
     /**
      * This method stands for selecting tags
      * Provide tag name to select
